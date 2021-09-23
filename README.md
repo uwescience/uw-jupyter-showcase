@@ -12,5 +12,4 @@ If you are a UW affiliate and have work you think would be great to include here
 
 ## License
 
-The licensing terms for each notebook vary; to learn more about a given notebook, follow the link to its source repository in its course subdirectory's README.md file.
-
+The licensing terms for each notebook vary and are included in the LICENSE files of their corresponding subdirectories of this repository.
